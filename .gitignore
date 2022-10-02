@@ -30,6 +30,9 @@ MANIFEST
 
 #folders
 data/
+repos/model
+api/
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -131,3 +134,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.gitignore
+
+#paths
+model/
+parameters/
+
