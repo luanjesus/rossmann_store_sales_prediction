@@ -28,12 +28,6 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-#folders
-data/
-repos/model
-api/
-
-
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -116,6 +110,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv-rossmann/
 
 # Spyder project settings
 .spyderproject
@@ -140,4 +135,4 @@ dmypy.json
 #paths
 model/
 parameters/
-
+venv-rossmann/
