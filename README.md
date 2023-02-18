@@ -1,5 +1,5 @@
 # Rossmann's stores sales forecast
-![Rossmann logo](https://github.com/luanjesus/rossmann_store_sales_prediction/blob/main/img/rossmann-mein-drogeriemarkt-logo-vector.png)
+![Rossmann logo](https://github.com/luanjesus/rossmann_store_sales_prediction/blob/main/repos/img/rossmann-mein-drogeriemarkt-logo-vector.png)
 
 **Dirk Rossmann GmbH** is one of the largest drug store chains in Europe with around 56,200 employees and more than 4000 stores. 
 
